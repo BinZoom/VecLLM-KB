@@ -1,0 +1,10 @@
+fastapi==0.115.11
+langchain==0.3.20
+langchain_community==0.3.19
+langchain_huggingface==0.1.2
+langchain_openai==0.3.8
+langgraph==0.3.7
+pydantic==2.10.6
+pydantic_settings==2.8.1
+pymilvus==2.5.5
+uvicorn==0.34.0
